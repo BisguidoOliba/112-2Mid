@@ -1,9 +1,114 @@
 <mxfile host="65bd71144e">
     <diagram id="ASTWp4ZXTidoFe2xOwB_" name="1b">
-        <mxGraphModel dx="1102" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="942" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
+                <mxCell id="30" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="8" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="65" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="8" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="70" style="edgeStyle=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="8" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=12;textOpacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="80" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="10" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="66" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="10" target="37">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="71" style="edgeStyle=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="10" target="35">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=12;textOpacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="230" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="11" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" style="edgeStyle=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="11" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="11" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="11" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=12;textOpacity=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="450" width="30" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="預約制買家" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="150" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="即時制買家" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="300" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="代銷人員" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="520" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="Line看房系統" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="114" y="50" width="600" height="600" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="申請看房" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="110" y="53.33" width="100" height="66.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="34" source="37" target="67">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="34" source="37" target="46">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" value="加入Line bot" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="100.01" y="230" width="79.99" height="46.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="34" source="42" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="76" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.96;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="34" source="42" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="審核成功" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="286" y="433.33" width="100" height="66.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="預約制Line選單" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="237" y="190" width="92" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="&lt;br&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-weight: normal; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;接收成功訊息&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="166.01" y="120.00000000000001" width="99.99" height="66.66" as="geometry"/>
+                </mxCell>
+                <mxCell id="63" style="edgeStyle=none;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="34" source="47" target="42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" value="預約制" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="486" y="369.99999999999994" width="52" height="33.33" as="geometry"/>
+                </mxCell>
+                <mxCell id="64" style="edgeStyle=none;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;endArrow=classic;endFill=1;" edge="1" parent="34" source="62" target="42">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="62" value="現場即時" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="496" y="486.66999999999996" width="52" height="33.33" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" value="即時制Line選單" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="210" y="250" width="92" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;進行推播&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="116" y="440" width="100" height="66.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="接收申請" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="27" y="290" width="100" height="66.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;審核資料&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="40" y="366.66" width="100" height="66.67" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;div style=&quot;color: rgb(204, 204, 204); background-color: rgb(31, 31, 31); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;買家時程安排&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="34">
+                    <mxGeometry x="110" y="510" width="100" height="66.67" as="geometry"/>
+                </mxCell>
             </root>
         </mxGraphModel>
     </diagram>
